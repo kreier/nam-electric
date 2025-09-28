@@ -11,5 +11,4 @@ Solving homeworks with Nam Nguyễn of the Tôn Đức Thắng University in Sai
 
 Solution in a Jupyter notebook:
 
-> Will follow
-
+> [File in Google Colaboratory](https://colab.research.google.com/drive/1uV5ceeU2U_ZtXH21PM6EcFd4qzqG1tay?usp=sharing)
