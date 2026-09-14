@@ -4,7 +4,7 @@
 ![GitHub License](https://img.shields.io/github/license/kreier/nam-electric)
 [![pages-build-deployment](https://github.com/kreier/nam-electric/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/kreier/nam-electric/actions/workflows/pages/pages-build-deployment)
 
-Solving homeworks with Nam Nguyễn of the Tôn Đức Thắng University in Saigon.
+Solving homeworks with Nam Nguyễn of the Tôn Đức Thắng University in Saigon. Now in the 5th semester.
 
 ## 2025/09/27 Broken PEN conductor in a system with 3 devices
 
